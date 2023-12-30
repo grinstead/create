@@ -10,6 +10,14 @@
   ],
   "author": "Joe Grinstead",
   "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grinstead/create.git"
+  },
+  "bugs": {
+    "url": "https://github.com/grinstead/create/issues"
+  },
+  "homepage": "https://github.com/grinstead/create#readme",
   "dependencies": {
     "prettier": "^3.1.1"
   }
