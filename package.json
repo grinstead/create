@@ -1,11 +1,9 @@
 {
   "name": "@grinstead/create",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A utility executable for creating various project setups",
   "main": "index.js",
-  "bin": {
-    "create": "./bin/create.js"
-  },
+  "bin": "./bin/create.js",
   "scripts": {},
   "keywords": [
     "rollup"
