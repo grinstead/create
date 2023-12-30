@@ -1,8 +1,7 @@
 {
   "name": "@grinstead/create",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A utility executable for creating various project setups",
-  "main": "index.js",
   "bin": "./bin/create.js",
   "scripts": {},
   "keywords": [
